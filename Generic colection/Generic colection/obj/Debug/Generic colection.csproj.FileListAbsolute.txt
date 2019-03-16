@@ -1,0 +1,7 @@
+Z:\C#\cas8_16_03\Generic colection\Generic colection\bin\Debug\Generic colection.exe.config
+Z:\C#\cas8_16_03\Generic colection\Generic colection\bin\Debug\Generic colection.exe
+Z:\C#\cas8_16_03\Generic colection\Generic colection\bin\Debug\Generic colection.pdb
+Z:\C#\cas8_16_03\Generic colection\Generic colection\obj\Debug\Generic colection.csprojAssemblyReference.cache
+Z:\C#\cas8_16_03\Generic colection\Generic colection\obj\Debug\Generic colection.csproj.CoreCompileInputs.cache
+Z:\C#\cas8_16_03\Generic colection\Generic colection\obj\Debug\Generic colection.exe
+Z:\C#\cas8_16_03\Generic colection\Generic colection\obj\Debug\Generic colection.pdb
